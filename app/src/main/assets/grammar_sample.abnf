@@ -1,0 +1,6 @@
+#ABNF 1.0 UTF-8;
+language zh-CN; 
+mode voice;
+
+root $main;
+$main = 1|2|3|4|5|6|7|8|9|0;
